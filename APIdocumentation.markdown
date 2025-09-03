@@ -1,4 +1,4 @@
-# API Documentation for Video Sharing Platform
+# API Documentation for VideoTube (Youtube Like Platform)
 
 This document provides detailed information about the API endpoints for a video sharing platform. The API is built using Express.js and follows RESTful conventions. It includes routes for user management, playlists, videos, comments, tweets, subscriptions, likes, and more. The documentation is organized by feature, with each endpoint described in terms of its HTTP method, path, description, middleware, and expected inputs/outputs.
 
