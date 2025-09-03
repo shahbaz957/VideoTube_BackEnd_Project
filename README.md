@@ -145,7 +145,7 @@ For the full and detailed API documentation, please see the [APIdocumentation.md
 
 ## 7. Author
 
-**Mirza Shahbaz Ali Baig**  
+# **Mirza Shahbaz Ali Baig**  
 Software Engineer | AI Engineer | Full Stack Developer (in progress)  
 
 - 📧 [Email me](mailto:mirzashahbazbaig724@gmail.com)  
