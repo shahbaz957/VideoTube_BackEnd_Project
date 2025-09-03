@@ -139,7 +139,7 @@ http://localhost:8000
 
 ## 6. API Documentation
 
-For the full and detailed API documentation, please see the [APIdocumentation.md](APIdocumentation.md) file.
+For the full and detailed API documentation, please see the [APIdocumentation.md](https://github.com/shahbaz957/VideoTube_BackEnd_Project/blob/main/APIdocumentation.markdown) file.
 
 ---
 
